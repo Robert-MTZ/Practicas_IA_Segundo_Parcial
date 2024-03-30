@@ -25,8 +25,8 @@ def ba(graf, inic, fin): # creamos una funcion llamada "ba" que seria la abrevia
     return None # retornamos un valor nulo 
 
  # Asignamos valores a nuestra grafica para que tenga donde trabajar buestro ciclo (while)
-if __name__== "__main__":
-    graf = {
+if __name__== "__main__": # se usa para condicionar la ejecución de ciertas partes del código solo cuando el script se ejecuta de forma independiente
+    graf = { 
         'I' : ['J', 'K'], # El nodo 'I' tiene conexiones con los nodos 'J' y 'K'.
         'J' : ['I', 'L', 'M'], #El nodo 'J' tiene conexiones con los nodos 'I', 'L' y 'M'. 
         'K' : ['I', 'N'], # El nodo 'K' tiene conexiones con los nodos 'I' y 'N'.
