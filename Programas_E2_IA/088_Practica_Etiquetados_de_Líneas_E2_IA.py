@@ -1,8 +1,10 @@
-# Practica_088_Etiquetados_de_Líneas_E2_IA
+# Practica_088_Etiquetados_de_Líneas
+_E2_IA
 # Roberto_Martinez_Bailon_21310216_6E
 # Ingenieria_en_Mecatronica
 
-# Programa_Etiquetados_de_Líneas
+# Programa_Etiquetados_de_Líneas
+
 
 import cv2
 import numpy as np

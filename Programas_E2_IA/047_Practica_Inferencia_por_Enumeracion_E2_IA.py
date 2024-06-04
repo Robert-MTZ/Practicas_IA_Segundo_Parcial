@@ -2,7 +2,8 @@
 # Roberto_Martinez_Bailon_21310216_6E
 # Ingenieria en Mecatronica
 
-# Programa_Inferencia_por_Enumeracion
+# Programa_Inferencia_por_Enumeracion
+
 
 import numpy as np
 

@@ -2,7 +2,8 @@
 # Roberto_Martinez_Bailon_21310216_6E
 # Ingenieria_en_Mecatronica
 
-# Programa_Sintaxis_y_Semantica_Tablas_de_Verdad
+# Programa_Sintaxis_y_Semantica_Tablas_de_Verdad
+
 
 import itertools
 
